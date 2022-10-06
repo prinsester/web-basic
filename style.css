@@ -1,0 +1,22 @@
+* {
+  background-color: rgb(212, 254, 213);
+}
+
+.main-title {
+  color: rgb(34, 16, 16);
+  margin: auto;
+}
+
+.sub-title {
+  color: rgb(21, 16, 16);
+}
+
+.main-p {
+  color: rgb(40, 32, 32);
+}
+
+.exp-table {
+  color: rgb(40, 32, 32);
+  background-color: black;
+}
+
