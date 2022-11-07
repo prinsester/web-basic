@@ -9,10 +9,12 @@
 
 .sub-title {
   color: rgb(21, 16, 16);
+  text-align: center;
 }
 
 .main-p {
   color: rgb(40, 32, 32);
+  text-align: center;
 }
 
 .exp-table {
@@ -43,4 +45,10 @@
 
 .nav li a:hover {
   background-color: #111;
+}
+
+.main-profile-pic {
+  display: flex;
+  margin: auto;
+  border-radius: 50%;
 }
