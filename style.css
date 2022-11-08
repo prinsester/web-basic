@@ -1,0 +1,54 @@
+* {
+  background-color: rgb(212, 254, 213);
+}
+
+.main-title {
+  color: rgb(34, 16, 16);
+  margin: auto;
+}
+
+.sub-title {
+  color: rgb(21, 16, 16);
+  text-align: center;
+}
+
+.main-p {
+  color: rgb(40, 32, 32);
+  text-align: center;
+}
+
+.exp-table {
+  color: rgb(40, 32, 32);
+  background-color: black;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #333;
+}
+
+.nav li a:hover {
+  background-color: #111;
+}
+
+.main-profile-pic {
+  display: flex;
+  margin: auto;
+  border-radius: 50%;
+}
